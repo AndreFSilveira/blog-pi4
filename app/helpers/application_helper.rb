@@ -3,4 +3,6 @@ module ApplicationHelper
 		'test'
 	end
 
+	def toHtml
+	end
 end
